@@ -11,6 +11,7 @@ class UserFragment : BaseFragment<FragmentUserBinding>() {
         super.initCreate()
     }
 
+
     override fun initCreateView() {
         super.initCreateView()
 
